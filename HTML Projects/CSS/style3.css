@@ -80,19 +80,21 @@ header.header_nav{
   border-color:transparent;
 }
 .button2 {
-  background-color: white;
-  color: #271300;
-  margin-top: 1px;
-  border-radius: 13px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  border-radius: 13px;
-  font-size: 20px;
-  padding-left:15px;
-  padding-right:15px;
-  padding-top: 9px;
-  padding-bottom: 9px;
-  border-color:transparent;
+    background-color: white;
+    color: #271300;
+    margin-top: 1px;
+    border-radius: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    border-radius: 13px;
+    font-size: 20px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-color:transparent;
+    text-decoration: none;
+
 }
 
 .button3 {
